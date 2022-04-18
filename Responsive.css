@@ -1,0 +1,456 @@
+@media screen and (min-width:1420px) {
+    
+    .features-container{
+        max-width: 1400px;
+        margin: 0 auto;
+
+    }
+    .design-content{
+        max-width: 1400px;
+        margin: 0 auto;
+
+    }
+    .Container1{
+        width:75%;
+    }
+
+}
+@media screen and (min-width:1200px){
+    .Container{
+        width: 92%;
+    }
+}
+@media screen and (max-width:1206px){
+    .center{
+        padding-left:30px;
+        padding-right:30px;
+    
+    }
+}
+@media screen and (max-width:1167px) and (min-width:1004px) {
+    .img_1{
+        height:800px;
+    }
+    
+}
+@media screen and (max-width:1004px) {
+    .started-section{
+        display: block;
+        margin:0 auto;
+    }
+    .start{
+        margin: 0 auto;
+        width:80%;
+        
+    }
+    .img-start{
+        margin-top:100px;
+        width: 100%;
+    }
+    .dream-section{
+        display: block;
+        margin: 0 auto;
+    }
+    .dream-content{
+        width: 100%;
+        padding-bottom: 150px;
+    }
+    .dream-section1{
+        flex-direction: column;
+    
+    }
+    .address-img{
+        width: 100%;
+        order: 2;
+        height:400px;
+
+    }
+    .dream-content1{
+        width: 100%;
+    }
+    .dream-img{
+        width: 100%;
+    }
+    .dream-para{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .portfolio-wrapper{
+        flex-direction: column;
+    }
+    .leftside{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .rightside{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .portfolio-image{
+        width:auto;
+        padding: 0;
+        margin-top: 0;
+    }
+    .portfolio-image1{
+        width:auto;
+        padding: 0;
+    }
+    .portfolio-content1{
+        padding: 0;
+    }
+    .portfolio-image3 {
+        width:auto;
+        padding: 0;
+    }
+    .portfolio-image4{
+        width: auto;
+        padding: 0;
+    }
+    .start-text{
+        padding-top:70px;
+    }
+    
+    
+}
+@media screen and (max-width:988px) and (min-width:768px) {
+    .bar{
+        top: 20px;
+        right: 100px;
+    }
+    .parallx-text{
+        max-width: 720px;
+    }
+    .portfolio-head3{
+        font-size: 67px;
+    }
+    /* .view-btn{
+        width:100px;
+    }
+     */
+
+    
+}
+@media screen and (max-width:988px) {
+   .nav-li{
+       display: none;
+   }
+   .navbar{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 10%;
+}
+
+/* .pause-btn{
+    margin-top:100px;
+} */
+.hide{
+    display: none;
+}
+.p-boxs{
+    display: block;
+}
+.first-box{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.second-box{
+    text-align: center;
+    margin-left: 0px;
+}
+
+.iphone-img{
+    max-width: 240px;
+}
+
+
+}
+
+/* @media screen and (max-width:854px) {
+
+    
+} */
+
+@media  screen and (max-width:824px) {
+    .info-wrapper{
+        flex-wrap: wrap;
+    }
+    .info-text{
+        width: 100%;
+    }
+    .info-img{
+        width: 100%;
+    }
+    .info-content{
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+    
+}
+
+@media screen  and (max-width:799px){
+    .navbar{
+        padding-left: 0px;
+        padding-right: 0px;
+    
+    }
+    .l-btn{
+        width:100%;
+    }
+    .l-btn1{
+        width:100%;
+    }
+    .design-content{
+        flex-wrap: wrap;
+    }
+  
+    .middle-content{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+    
+@media screen and (max-width:768px){
+    .header-para{
+        font-size:35px;
+        width:80%;
+    }
+    .S-head{
+        text-align: center;
+    }
+    .S-head1{
+        text-align: center;
+    }
+    .S-head2{
+        text-align: center;
+    }
+    .btn-center{
+        text-align: center;
+    }
+    
+    .start{
+       margin: 0 auto;
+        width:80%;
+        
+    }
+    .bar{
+        top:20px;
+    }
+    .row{
+        display:block;
+    }
+    .team-wrapper{
+        width:100%;
+    }
+    .features-box{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .features-box >p{
+        margin: 0 auto;
+        max-width: 80%;
+    }
+    .about-text >p{
+
+        margin: 0 auto;
+        max-width: 80%;
+    }
+    .overlay-head1
+    {
+        font-size: 35px;
+    }
+    .start-text{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .portfolio-para{
+        font-size: 35px;
+    }
+    .pricing-head1{
+        font-size: 35px;
+    }
+    .design-para1{
+        font-size:35px;
+    }
+    .dream-head1{
+        font-size: 35px;
+
+    }
+    .pricing-para{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+
+    
+}
+@media screen and (max-width:700px){
+    .l-btn{
+        width:100%;
+    }
+    .l-btn1{
+        width:100%;
+    }
+
+}
+
+@media screen and (max-width:652px){
+    .first-box1{
+        display: block;
+    }
+    .third-box{
+        display: block;
+    }
+    .team-image{
+        width:100%;
+        margin: 0 auto;
+    }
+    .first-box1:hover .team-content::after{
+        background:linear-gradient(to right, #3264f5 2%, #7202bb 82%);
+        height: 100%;
+        color: #fff;
+      }
+      .third-box:hover .team-content::after{
+        background:linear-gradient(to left, #3264f5 2%, #7202bb 82%);
+        color: #fff;
+        height: 100%;
+      
+    
+    }
+   
+    .team-content::after{
+        width: 100%;
+        height: 0;
+    }
+    .team-content{
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .features-container{
+        padding: 0px;
+    }
+    .team-content>h2{
+        margin: 0;
+        padding-left: 0px;
+    }
+    .team-content>p{
+        margin: 0 auto;
+        padding-left: 0px;
+    }
+    .S-head1{
+        font-size: 35px;
+    }
+    .team-social{
+        padding-top:20px;
+    }
+    .pricing-para{
+        margin-top:10px;
+    }
+    .portfolio-head3{
+        font-size: 64px;
+    }
+    .view-btn{
+        width: 120px;
+    }
+    .left-form{
+        flex-direction: column;
+    }
+    .contact-form{
+        padding-top: 50px;
+    }
+    .form-group{
+        padding: 0;
+        width: 85%;
+    }
+    .form-group1{
+        width: 85%;
+    }
+    .form-control{
+        width: 100%;
+    }
+    .team-section-text>p{
+        padding-left: 10px;
+        padding-right: 10px;
+        max-width: 500px;
+    }
+}
+@media screen and (max-width:539px){
+    .logo{
+      
+        padding-right:40px;
+    }
+
+}
+@media screen and (max-width:528px){
+    .l-btn{
+        width:100%;
+    }
+    .l-btn1{
+        width:100%;
+    }
+    .pause-btn{
+       margin-top:80px;
+    }
+    .p-boxs{
+        margin-left:20px;
+        margin-right:20px;
+    }
+    .dream-para{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+
+    
+
+}
+
+@media screen and (max-width:425px){
+    .l-btn{
+        width:100%;
+    }
+    .l-btn1{
+        width:100%;
+    }
+    .p-boxs{
+        padding-top: 30px;
+    }
+    .S-head{
+        font-size:12px;
+    }
+    .S-head1{
+        font-size: 30px;
+    }
+
+}
+@media screen and (max-width:395px) {
+    .start{
+        padding-left:5px;
+        padding-right: 5px;
+    }
+    .fa{
+        padding: 10px;
+    }
+    
+}
+@media screen and (max-width:357px){
+    .l-btn{
+        width:100%;
+    }
+    .l-btn1{
+        width:100%;
+    }
+
+}
+
