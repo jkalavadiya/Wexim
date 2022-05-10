@@ -1,3 +1,19 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.formatOnSave": true,
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "git.autofetch": true,
+    "liveSassCompile.settings.includeItems": [],
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnPaste": true
 }
+

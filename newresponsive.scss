@@ -1,0 +1,1033 @@
+@media screen and (min-width:1420px) {
+
+    .features-container {
+        max-width: 1400px;
+        margin: 0 auto;
+
+    }
+
+    .mobile-app-design-section {
+        .Container {
+            .design-content {
+                max-width: 1400px;
+                margin: 0 auto;
+
+            }
+        }
+
+    }
+
+    .main-container {
+        .portfolio-section {
+            .Container {
+                .Container1 {
+                    width: 75%;
+                }
+            }
+        }
+    }
+
+
+
+
+}
+
+@media screen and (min-width:1200px) {
+    .Container {
+        width: 92%;
+    }
+
+}
+
+@media screen and (max-width:1206px) {
+    .main-container {
+        .header-image {
+            .navbar {
+                .nav-link {
+                    .center {
+                        padding-left: 30px;
+                        padding-right: 30px;
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+
+}
+
+
+@media screen and (max-width:1167px) and (min-width:1004px) {
+
+    .main-container {
+        .Container {
+            .started-section {
+                .img-start {
+                    .img_1 {
+                        height: 800px;
+
+                    }
+
+                }
+            }
+
+        }
+
+    }
+}
+
+@media screen and (max-width:1004px) {
+
+    .main-container {
+
+        .Container {
+
+            .started-section {
+                display: block;
+                margin: 0 auto;
+
+                .start {
+                    margin: 0 auto;
+                    width: 80%;
+
+                    .start-text {
+                        padding-top: 70px;
+
+                    }
+
+                }
+
+                .img-start {
+                    margin-top: 100px;
+                    width: 100%;
+
+                }
+
+            }
+
+
+
+        }
+
+        .dream-section {
+            display: block;
+            margin: 0 auto;
+
+            .dream-content {
+                width: 100%;
+                padding-bottom: 150px;
+
+                .dream-para {
+                    padding-left: 100px;
+                    padding-right: 100px;
+
+                }
+
+            }
+
+            .dream-img {
+                width: 100%;
+
+            }
+
+        }
+
+        .dream-section1 {
+            flex-direction: column;
+
+            .dream-content1 {
+                width: 100%;
+
+            }
+
+            .address-img {
+                width: 100%;
+                order: 2;
+                height: 400px;
+
+            }
+
+        }
+
+        .portfolio-section {
+            .Container {
+                .Container1 {
+                    .portfolio-wrapper {
+                        flex-direction: column;
+
+                        .leftside {
+                            width: 100%;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+
+                            .portfolio-image {
+                                width: auto;
+                                padding: 0;
+                                margin-top: 0;
+
+
+                            }
+
+                            .portfolio-image1 {
+                                width: auto;
+                                padding: 0;
+                            }
+
+                            .portfolio-content1 {
+                                padding: 0;
+
+                            }
+
+                        }
+
+                        .rightside {
+                            width: 100%;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+
+                            .portfolio-image3 {
+                                width: auto;
+                                padding: 0;
+
+                            }
+
+                            .portfolio-image4 {
+                                width: auto;
+                                padding: 0;
+
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+
+}
+
+@media screen and (max-width:988px) and (min-width:768px) {
+
+    .main-container {
+        .header-image {
+            .navbar {
+                .nav-link {
+
+                    .bar {
+                        top: 20px;
+                        right: 100px;
+
+                    }
+
+                }
+
+            }
+
+        }
+
+        .parallx-img {
+            .row {
+                .parallx-text {
+                    max-width: 720px;
+
+                }
+            }
+        }
+
+        .portfolio-section {
+            .Container {
+                .Container1 {
+                    .portfolio-wrapper {
+                        .leftside {
+                            .portfolio-content1 {
+                                .portfolio-head3 {
+                                    font-size: 67px;
+
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+@media screen and (max-width:988px) {
+
+    .main-container {
+        .header-image {
+
+            .navbar-white {
+                .nav-link {
+                    .links {
+                        .nav-li {
+                            display: none;
+                        }
+
+                    }
+
+                    .center {
+                        .logo {
+                            position: absolute;
+                            top: 20px;
+                            left: 10%;
+                        }
+                    }
+                }
+
+            }
+
+            .navbar {
+
+                padding-left: 0px;
+                padding-right: 0px;
+
+                .nav-link {
+
+                    .links {
+
+                        .nav-li {
+                            display: none;
+
+                        }
+
+                    }
+
+                    .center {
+                        .logo {
+                            position: absolute;
+                            top: 20px;
+                            left: 10%;
+                        }
+                    }
+
+                }
+
+            }
+
+        }
+
+        .team-section {
+            .Container {
+                .row {
+                    .team-wrapper {
+                        .team-box {
+                            .block {
+                                .member-box {
+                                    .first-box1 {
+                                        .hide {
+                                            display: none;
+
+                                        }
+                                    }
+                                }
+
+                                .memberbox1 {
+                                    .third-box {
+                                        .hide {
+                                            display: none;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .pricing-section {
+            .Container {
+                .Container {
+                    .p-boxs {
+                        display: block;
+                    }
+
+                    .first-box {
+                        text-align: center;
+                        margin-bottom: 30px;
+
+                    }
+
+                    .second-box {
+                        text-align: center;
+                        margin-left: 0px;
+
+                    }
+                }
+            }
+        }
+
+        .mobile-app-design-section {
+            .Container {
+                .design-content {
+                    .middle-content {
+                        .app-image {
+                            .iphone-img {
+                                max-width: 240px;
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:824px) {
+
+    .main-container {
+        .company-info {
+            .Container {
+                .info-wrapper {
+                    flex-wrap: wrap;
+
+                    .info-text {
+                        width: 100%;
+                    }
+
+                    .info-img {
+                        width: 100%;
+
+                        .info-content {
+
+                            justify-content: center;
+                            align-items: center;
+                        }
+
+
+                    }
+                }
+
+
+            }
+        }
+    }
+
+
+
+}
+
+@media screen and (max-width:799px) {
+    .main-container {
+        .header-image {
+            .navbar {
+                padding-left: 0px;
+                padding-right: 0px;
+
+            }
+        }
+
+        .header-content {
+            .learn-button {
+                .l-btn {
+                    width: 100%;
+
+                }
+
+                .l-btn1 {
+                    width: 100%;
+                }
+            }
+        }
+
+        .mobile-app-design-section {
+            .Container {
+                .design-content {
+                    flex-wrap: wrap;
+
+                }
+
+                .middle-content {
+                    padding-top: 40px;
+                    padding-bottom: 40px;
+
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:768px) {
+    .main-container {
+        .Container {
+            .started-section {
+                .start {
+                    margin: 0 auto;
+                    width: 80%;
+
+                    .start-text {
+
+                        padding-left: 0px;
+                        padding-right: 0px;
+
+                        S.head {
+                            text-align: center;
+
+                        }
+
+                        S.head2 {
+                            text-align: center;
+
+
+                        }
+
+                        .btn-center {
+                            text-align: center;
+
+                        }
+                    }
+                }
+            }
+
+            .header-image {
+                .navbar {
+                    .nav-link {
+                        .bar {
+                            top: 20px;
+
+                        }
+                    }
+                }
+            }
+
+        }
+
+        .team-section {
+            .Container {
+                .row {
+                    display: block;
+
+                    .team-wrapper {
+                        width: 100%;
+
+                    }
+
+                }
+            }
+        }
+
+        .info-section {
+            .Container {
+                .features-container {
+                    .row {
+                        display: block;
+
+                        .features-box {
+                            padding-left: 0px;
+                            padding-right: 0px;
+
+                            p {
+                                margin: 0 auto;
+                                max-width: 80%;
+
+                            }
+
+                        }
+
+                    }
+                }
+
+                .About-section {
+                    .about-text {
+                        p {
+                            margin: 0 auto;
+                            max-width: 80%;
+
+                        }
+                    }
+                }
+            }
+        }
+
+        .dream-section1 {
+            .address-img {
+                .overlay {
+                    .overlay-head1 {
+                        font-size: 35px;
+
+                    }
+                }
+            }
+        }
+
+        .portfolio-section {
+            .Container {
+                .Container1 {
+                    .portfolio-wrapper {
+                        .rightside {
+                            .portfolio-content {
+                                .portfolio-para {
+                                    font-size: 35px;
+
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .mobile-app-design-section {
+            .Container {
+                .app-design-wrapper {
+                    .design-para1 {
+                        font-size: 35px;
+
+
+                    }
+                }
+            }
+        }
+
+        .pricing-section {
+            .Container {
+                .pricing-wrapper {
+                    .pricing-para {
+                        padding-left: 10px;
+                        padding-right: 10px;
+
+                    }
+                }
+            }
+        }
+
+        .header-image {
+            .navbar {
+                .nav-link {
+
+                    .bar {
+                        top: 20px;
+                        // right: 100px;
+
+                    }
+
+                }
+
+            }
+
+        }
+
+
+    }
+}
+
+@media screen and (max-width:700px) {
+    .main-container {
+        .header-content {
+            .learn-button {
+                .l-btn {
+                    width: 100%;
+
+                }
+
+                .l-btn1 {
+                    width: 100%;
+                }
+            }
+
+        }
+    }
+
+
+
+}
+
+@media screen and (max-width:652px) {
+
+    .main-container {
+        .team-section {
+            .Container {
+                .team-section-text p {
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    max-width: 500px;
+
+                }
+
+                .row {
+                    .team-wrapper {
+                        .team-box {
+                            .block {
+                                .member-box {
+                                    .first-box1 {
+                                        display: block;
+
+
+                                        &:hover {
+
+                                            .team-content {
+                                                &::after {
+                                                    width: 100%;
+
+                                                    background: linear-gradient(to right, #3264f5 2%, #7202bb 82%);
+                                                    height: 100%;
+                                                    color: #fff;
+                                                }
+
+                                            }
+
+                                        }
+
+                                        .team-content {
+                                            text-align: center;
+                                            width: 100%;
+                                            padding-bottom: 20px;
+
+                                            &::after {
+                                                width: 100%;
+                                                height: 0;
+                                            }
+
+
+                                            h2 {
+                                                margin: 0;
+                                                padding-left: 0px;
+                                            }
+
+                                            .t-para {
+                                                margin: 0 auto !important;
+                                                padding-left: 0px !important;
+                                            }
+
+                                            .t-para1 {
+                                                margin: 0 auto;
+                                                padding-left: 0px;
+                                            }
+
+                                            .team-social {
+                                                padding-top: 20px;
+                                            }
+
+
+                                        }
+
+                                        .team-image {
+                                            width: 100%;
+                                            margin: 0 auto;
+
+                                        }
+                                    }
+                                }
+
+                                .memberbox1 {
+                                    .third-box {
+                                        display: block;
+
+                                        .team-content {
+                                            text-align: center;
+                                            width: 100%;
+                                            padding-bottom: 20px;
+
+                                            &::after {
+                                                width: 100%;
+                                                height: 0;
+                                            }
+
+
+
+                                            h2 {
+                                                margin: 0;
+                                                padding-left: 0px;
+                                            }
+
+                                            .t-para {
+                                                margin: 0 auto !important;
+                                                padding-left: 0px !important;
+                                            }
+
+                                            .t-para1 {
+                                                margin: 0 auto;
+                                                padding-left: 0px;
+                                            }
+                                        }
+
+                                        .team-image {
+                                            width: 100%;
+                                            margin: 0 auto;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .info-section {
+            .Container {
+                .features-container {
+                    padding: 0px;
+
+                }
+            }
+        }
+
+        .Container {
+            .started-section {
+                .start {
+                    .start-text {
+                        .S-head1 {
+                            font-size: 35px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .pricing-section {
+            .Container {
+                .pricing-wrapper {
+                    .pricing-para {
+                        margin-top: 10px;
+
+                    }
+                }
+            }
+        }
+
+        .portfolio-section {
+            .Container {
+                .Container1 {
+                    .portfolio-wrapper {
+                        .leftside {
+                            .portfolio-content1 {
+                                .portfolio-head3 {
+                                    font-size: 64px;
+
+                                }
+
+                                .portfolio-btn {
+                                    .view-btn {
+                                        width: 120px;
+
+                                    }
+
+                                }
+
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .dream-section1 {
+            .dream-content1 {
+                .conatct-form {
+                    padding-top: 50px;
+
+                    .left-form {
+                        flex-direction: column;
+
+                        .form-group {
+                            padding: 0;
+                            width: 85%;
+
+                        }
+
+                        .form-group1 {
+                            width: 85%;
+
+                            .form-control {
+                                width: 100%;
+
+                            }
+
+                        }
+
+                    }
+                }
+            }
+
+        }
+
+    }
+}
+
+@media screen and (max-width:539px) {
+    .main-container {
+        .header-image {
+            .navbar {
+                .nav-link {
+                    .center {
+                        .logo {
+                            padding-right: 40px;
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+
+
+}
+
+@media screen and (max-width:528px) {
+    .main-container {
+        .header-content {
+            .pause-btn {
+                margin-top: 80px;
+
+            }
+
+            .learn-button {
+                .l-btn {
+                    width: 100%;
+
+                }
+
+                .l-btn1 {
+                    width: 100%;
+                }
+
+            }
+
+        }
+
+        .pricing-section {
+            .Container {
+                .Container {
+                    .p-boxs {
+                        margin-left: 20px;
+                        margin-right: 20px;
+
+                    }
+                }
+            }
+        }
+
+        .dream-section {
+            .dream-content {
+                .dream-para {
+                    padding-left: 30px;
+                    padding-right: 30px;
+
+
+                }
+            }
+        }
+
+    }
+}
+
+@media screen and (max-width:425px) {
+    .main-container {
+        .header-content {
+            .pause-btn {
+                margin-top: 80px;
+
+            }
+
+            .learn-button {
+                .l-btn {
+                    width: 100%;
+
+                }
+
+                .l-btn1 {
+                    width: 100%;
+                }
+
+            }
+
+        }
+
+        .pricing-section {
+            .Container {
+                .Container {
+                    .p-boxs {
+                        padding-top: 30px;
+
+                    }
+                }
+            }
+        }
+
+        .Container {
+            .started-section {
+                .start {
+                    .start-text {
+                        .S-head {
+                            font-size: 12px;
+
+                        }
+
+                        .S-head1 {
+                            font-size: 30px;
+
+                        }
+                    }
+                }
+            }
+        }
+
+
+    }
+}
+
+@media screen and (max-width:395px) {
+    .main-container {
+        .Container {
+            .started-section {
+                .start {
+                    padding-left: 5px;
+                    padding-right: 5px;
+
+
+                }
+
+            }
+
+            .fa {
+                padding: 10px;
+            }
+        }
+
+    }
+}
+
+@media screen and (max-width:357px) {
+    .main-container {
+        .header-content {
+            .pause-btn {
+                margin-top: 80px;
+
+            }
+
+            .learn-button {
+                .l-btn {
+                    width: 100%;
+
+                }
+
+                .l-btn1 {
+                    width: 100%;
+                }
+
+            }
+
+        }
+
+    }
+}

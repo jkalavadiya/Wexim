@@ -1,5 +1,6 @@
 function togglemenu(width){
     document.getElementById("close-menu").style.width= `${width}px`;
+
 }
 
 function closesidebarmenu(){
